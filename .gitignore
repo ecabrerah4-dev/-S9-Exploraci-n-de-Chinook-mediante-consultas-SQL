@@ -1,0 +1,7 @@
+cat << 'EOF' > .gitignore
+.env
+.idea/
+.vscode/
+*.log
+pgdata/
+EOF
